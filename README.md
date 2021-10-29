@@ -1,3 +1,5 @@
+# Udemyのvue/firebase Hostingを使って学習しました。
+
 # firebase-vue-todo
 
 > A Vue.js project
